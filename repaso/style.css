@@ -1,0 +1,32 @@
+.info_personal {
+  background-color: brown;
+  font-type: verdana;
+
+}
+
+.img_personal {
+  background-color: blue;
+}
+
+.mis_gustos {
+  background-color: yellow;
+}
+
+.cantantes_favoritos {
+  font-family: conver;
+  background-color: pink;
+}
+
+.informacion_personal {
+  text-align: center;
+  background-color: blueviolet;
+}
+
+.info_personal {
+  text-align: end;
+  background-color: blue;
+}
+
+#valores_personales {
+  border-bottom: 3px solid orange;
+}
